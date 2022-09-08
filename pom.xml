@@ -16,7 +16,7 @@
   <properties>
     <servlet.api>3.1.0</servlet.api>
     <spring.framework>4.3.18.RELEASE</spring.framework>
-    <postgres>42.1.4</postgres>
+    <postgres>42.4.1</postgres>
     <serializer>2.8.1</serializer>
     <spring.data>1.11.2.RELEASE</spring.data>
     <hibernate>5.3.0.CR2</hibernate>
